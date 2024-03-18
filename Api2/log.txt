@@ -1,0 +1,153 @@
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Prof
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Realizando alguna tarea importante.
+Usuario no existe
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Usuario no existe
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Usuario no existe
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Realizando alguna tarea importante.
+Usuario no existe
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Realizando alguna tarea importante.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando alguna tarea importante.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando el getByID.
+Usuario no existe
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando el getByID.
+Realizdo con exito.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando el getByID.
+Realizdo con exito.viveres
+Realizando el getByID.
+Realizdo con exito.cereales
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando el getByID.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\
+Realizando el getByID.
+Realizdo con exito.
+Realizando el getByID.
+Realizdo con exito.
+Realizando el getByID.
+Realizdo con exito.
+Now listening on: https://localhost:7268
+Now listening on: http://localhost:5173
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\Api2\

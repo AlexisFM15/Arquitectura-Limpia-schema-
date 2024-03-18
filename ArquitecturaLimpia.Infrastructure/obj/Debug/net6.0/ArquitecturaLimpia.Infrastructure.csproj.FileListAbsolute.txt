@@ -1,0 +1,38 @@
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.deps.json
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.runtimeconfig.json
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.dll
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Application.dll
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Domain.dll
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Application.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Domain.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.AssemblyInfo.cs
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.csproj.CopyComplete
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.dll
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\refint\ArquitecturaLimpia.Infrastructure.dll
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.pdb
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.genruntimeconfig.cache
+C:\Users\Laboratorio\Documents\Visual Studio 2022\Proyectos\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ref\ArquitecturaLimpia.Infrastructure.dll
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.deps.json
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.runtimeconfig.json
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.dll
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Infrastructure.pdb
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Application.dll
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Domain.dll
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Application.pdb
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\bin\Debug\net6.0\ArquitecturaLimpia.Domain.pdb
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\Arquitec.0065B3BD.Up2Date
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.dll
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\refint\ArquitecturaLimpia.Infrastructure.dll
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.pdb
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ArquitecturaLimpia.Infrastructure.genruntimeconfig.cache
+C:\Users\Admin\Documents\amell\Integrador\ArquitecturaLimpia\ArquitecturaLimpia.Infrastructure\obj\Debug\net6.0\ref\ArquitecturaLimpia.Infrastructure.dll
